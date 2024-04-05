@@ -2,4 +2,10 @@ hello world
 
 Helllll
 
+<<<<<<< HEAD
 hgafsdgh
+=======
+
+
+ssssss
+>>>>>>> a9ade93b2665eca3fac3777eee10ca1a521125da
